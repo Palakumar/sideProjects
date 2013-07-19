@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/NLP_LIB"/>
+	<classpathentry kind="lib" path="C:/work/interviews/fractal_DB/mysql-connector-java-5.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Work/Fractal Sciences/Engineering/CMU Tagger/ark-tweet-nlp-0.3.2/ark-tweet-nlp-0.3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/STORM_LIB"/>
+	<classpathentry kind="lib" path="F:/Work/Yelp/twitter4j/lib/twitter4j-core-3.0.3.jar" sourcepath="F:/Work/Yelp/twitter4j/twitter4j-core/twitter4j-core-3.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/Work/Yelp/twitter4j/lib/twitter4j-stream-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/work/jars/Wordnet/jaws-bin.jar"/>
+	<classpathentry kind="lib" path="C:/work/jars/datasciences2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
